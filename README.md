@@ -1,12 +1,2 @@
-<<<<<<< HEAD
-# React + Vite
+This is a React-based web page designed for my children to practice their vocabulary on their mobile devices. The page is tailored to provide an interactive learning experience, allowing them to independently practice their glossary terms. It's designed with simplicity and user-friendliness in mind, ensuring that even young learners can easily navigate and engage with the content.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# glosapptwo
->>>>>>> 7945ce38e5dcf1ff3311db2bd7ce05e2584257c5
